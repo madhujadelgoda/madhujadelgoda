@@ -1,5 +1,6 @@
 # 💫 About Me:
-I’m an undergraduate in Information Technology, currently building responsive web applications with modern front-end technologies and always exploring ways to improve user experience and design. I’m eager to collaborate on innovative projects and learn more about scalable front-end architectures. Fun fact: I enjoy adding animations that make websites engaging 💻🎨, and I also love video editing as a creative outlet 🎬.
+I’m an undergraduate in Information Technology, currently building responsive web applications with modern front-end technologies and always exploring ways to improve user experience and design. I’m eager to collaborate on innovative projects and learn more about scalable front-end architectures.
+Fun fact: I enjoy adding animations that make websites engaging 💻🎨, and I also love video editing as a creative outlet 🎬.
 
 
 ## 🌐 Socials:
