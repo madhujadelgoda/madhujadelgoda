@@ -13,7 +13,7 @@ I’m an undergraduate in Information Technology, currently building responsive 
 ![](https://nirzak-streak-stats.vercel.app/?user=madhujadelgoda&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=madhujadelgoda&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=madhujadelgoda&theme=midnight-purple&border_radius=12)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=madhujadelgoda&theme=midnight-purple&hide_border=true&border_radius=12)](https://git.io/streak-stats)
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
