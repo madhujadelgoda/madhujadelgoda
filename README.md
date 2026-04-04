@@ -7,12 +7,14 @@
   <b>Fun fact:</b> I love adding subtle animations that bring interfaces to life, and I enjoy video editing as a creative outlet.
 </p>
 
-<h1 align="center">Socials</h1>
+
+<h2 align="center">Socials</h2>
 <p align="center">
   <a href="mailto:madhujadelgoda@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail" />
   </a>
 </p>
+
 
 <h1 align="center">Tech Stack</h1>
 <p align="center">
