@@ -29,13 +29,12 @@
 
 <h1 align="center">GitHub Stats</h1>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=madhujadelgoda&count_private=true&theme=midnight-purple&hide_border=true&border_radius=12" alt="streak stats"/>
-  <img width=390 height=154 src="https://github-readme-stats-salesp07.vercel.app/api?username=madhujadelgoda&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12" alt="readme stats" />
-  <br/>
-  <img width=326 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=madhujadelgoda&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&border_radius=12&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img src="https://streak-stats.demolab.com/?user=madhujadelgoda&count_private=true&theme=midnight-purple&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=madhujadelgoda&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=madhujadelgoda&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
-
+  
 <h2 align="center">Random Dev Quote</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
