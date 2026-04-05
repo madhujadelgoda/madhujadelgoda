@@ -30,7 +30,7 @@
 <h1 align="center">GitHub Stats</h1>
 <div align=center>
   <img src="https://streak-stats.demolab.com/?user=madhujadelgoda&count_private=true&theme=midnight-purple&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=madhujadelgoda&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=madhujadelgoda&theme=midnight-purple&hide_border=true&count_private=true" height="180"/>
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=madhujadelgoda&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
